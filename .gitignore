@@ -1,6 +1,6 @@
 node_modules
 .env
-.sh
+simple.sh
 
 # Hardhat files
 /cache
